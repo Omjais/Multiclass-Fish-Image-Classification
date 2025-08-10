@@ -8,7 +8,7 @@ It is deployed as a **Streamlit web app** allowing users to upload a fish image 
 - A short description of the fish
 
 ## 📊 Dataset
-- **Source:** [Insert dataset source link]
+- **Source:** [https://drive.google.com/drive/folders/1iKdOs4slf3XvNWkeSfsszhPRggfJ2qEd?usp=sharing]
 - **Classes:** 11 fish categories
 - **Preprocessing:**
   - Image resizing to 224×224
